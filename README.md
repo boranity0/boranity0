@@ -3,6 +3,7 @@
 <h2 align="center">🐍 I’m currently learning <b>Python</b> and <b>JavaScript</b> in free time. 💻</h2>
 
 <p align="center"><br>
+<a href="https://t.me/fossdunyam"><img alt="Telegram" src="https://badges.aleen42.com/src/telegram.svg"></img></a>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></img></a>
 <a href="https://html.com"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img></a> 
 <a href="https://www.w3.org/Style/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></img></a>
@@ -17,3 +18,6 @@
 <img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=boranity0&show_icons=true&theme=gruvbox"></img>
 <img height=250 width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=boranity0&langs_count=9&layout=compact&theme=gruvbox"></img>
 </p>
+
+<a href="https://t.me/fossdunyam">Hem FOSS(Özgür Yazılım/Açık Kaynak) projeler hemde Linux ile ilgili içerikler paylaştığım Telegram Kanalıma beklerim</a>
+
